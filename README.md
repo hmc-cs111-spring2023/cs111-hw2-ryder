@@ -157,7 +157,7 @@ Here are some suggestions for critiques:
 
 ## Tasks
 
-- [ ] Read all the things :)
+- [X] Read all the things :)
 - [ ] Write all the responses :).
 - [ ] Submit your work.
 - [ ] Comment on your critique partners' work.
